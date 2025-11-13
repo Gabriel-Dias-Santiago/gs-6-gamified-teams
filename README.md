@@ -19,9 +19,6 @@ Esta API fornece informações sobre o tema escolhido, incluindo detalhes dos me
 5. Acesse a API em `http://localhost:8081/info`.
 6. Documentação Swagger em `http://localhost:8081/swagger-ui.html`.
 
-## URL da Imagem no Docker Hub
-[URL da imagem no Docker Hub]
-
 ## Workflows CI/CD
 - **Versioning**: Disparado por push na branch main, gera tags automáticas.
 - **CI**: Disparado por push nas branches feature/**, release, hotfix. Executa build, testes e build da imagem Docker.
