@@ -27,3 +27,4 @@ Esta API fornece informações sobre o tema escolhido, incluindo detalhes dos me
 - **CI**: Disparado por push nas branches feature/**, release, hotfix. Executa build, testes e build da imagem Docker.
 - **CD**: Disparado por pull request na branch develop, envia imagem automaticamente ao Docker Hub.
 # gs-6-gamified-teams
+# gs-6-gamified-teams
